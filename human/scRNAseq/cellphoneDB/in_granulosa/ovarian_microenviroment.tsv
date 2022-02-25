@@ -1,0 +1,14 @@
+celltype	microenvironment
+Germ.GC	cortex
+Germ.PGC	cortex
+Germ.oocyte	follicle
+Germ.oogonia_STRA8	medulla
+Germ.oogonia_meiotic	medulla
+Germ.pre_oocyte	follicle
+Somatic.CoelEpi_LHX9	cortex
+Somatic.preGC_I	medulla
+Somatic.preGC_IIa	cortex
+Somatic.preGC_IIb	medulla
+Somatic.granulosa	follicle
+Somatic.OSE	cortex
+Somatic.early_supporting	cortex

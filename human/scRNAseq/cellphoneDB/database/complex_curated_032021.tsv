@@ -1,0 +1,400 @@
+complex_name	uniprot_1	uniprot_2	uniprot_3	uniprot_4	transmembrane	peripheral	secreted	secreted_desc	secreted_highlight	receptor	receptor_desc	integrin	other	other_desc	pdb_id	pdb_structure	stoichiometry	comments_complex	reactome_reaction	reactome_complex	complexPortal_complex	rhea_reaction	curator
+12oxoLeukotrieneB4_byPTGR1	Q14914				FALSE	FALSE	TRUE	CHEBI:27814	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-2161567			RHEA:50609	LGarciaAlonso
+22Hydroxycholesterol_byCYP11A1	P05108				FALSE	FALSE	TRUE	CHEBI:67237	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE						RHEA:34340;RHEA:34335	LGarciaAlonso
+22Hydroxycholesterol_byCYP3A4	P08684				FALSE	FALSE	TRUE	CHEBI:67237	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE						RHEA:46140	LGarciaAlonso
+2arachidonoylglycerol_byDAGLA	Q9Y4D2				FALSE	FALSE	TRUE	CHEBI:52392	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE				R-HSA-426032			LGarciaAlonso
+2arachidonoylglycerol_byDAGLB	Q8NCG7				FALSE	FALSE	TRUE	CHEBI:52392	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE				R-HSA-426032			LGarciaAlonso
+5alphaDihydroprogesterone_byDHRS9	Q9BPW9				FALSE	FALSE	TRUE	CHEBI:28952	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE						RHEA:41988	LGarciaAlonso
+5HT3C5HT3A_complex	Q8WXA8	P46098			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Note:_Presumably_retained_within_the_endoplasmic_reticulum_unless_complexed_with_HTR3A					RVentoTormo
+5HT3D_receptor	Q70Z44	P46098			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Presumably_retained_within_the_endoplasmic_reticulum_unless_complexed_with_HTR3A					RVentoTormo
+5SHpETE_byALOX5	P09917	Q16873	P20292		FALSE	FALSE	TRUE	CHEBI:15632	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-265296			RHEA:17486	LGarciaAlonso
+ABCG5ABCG8_complex	Q9H222	Q9H221			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE		5do7	TRUE	ABCG5;ABCG8	May_form_heterodimers_with_ABCG8_or_be_tightly_coupled_to_ABCG8					RVentoTormo
+Acetylcholine_byCHAT	P28329				FALSE	FALSE	TRUE	CHEBI:15355	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-264622			RHEA:18822	LGarciaAlonso
+AcetylcholineReceptor_a2b3	Q15822	Q05901			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE				R-HSA-633846			LGarciaAlonso
+AcetylcholineReceptor_a3b2a5	P32297	P17787	P30532		TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE				R-HSA-629584			LGarciaAlonso
+AcetylcholineReceptor_a3b4	P32297	P30926			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE				R-HSA-629575			LGarciaAlonso
+AcetylcholineReceptor_a3b4a5	P32297	P30926	P30532		TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE				R-HSA-629582			LGarciaAlonso
+AcetylcholineReceptor_a4b2	P43681	P17787			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE				R-HSA-532625			LGarciaAlonso
+AcetylcholineReceptor_a6a4b3	Q15825	P43681	Q05901		TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE				R-HSA-633773			LGarciaAlonso
+AcetylcholineReceptor_a6b3b4	Q15825	Q05901	P30926		TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE				R-HSA-549002			LGarciaAlonso
+Activin_ligand_ab	P08476	P09529			FALSE	FALSE	TRUE	TGFb	TRUE	FALSE		FALSE	FALSE			FALSE							RVentoTormo
+Inhibin_ligand_A	P08476	P05111			FALSE	FALSE	TRUE	TGFb	TRUE	FALSE		FALSE	FALSE			FALSE							RVentoTormo
+Inhibin_ligand_B	P09529	P05111			FALSE	FALSE	TRUE	TGFb	TRUE	FALSE		FALSE	FALSE			FALSE							RVentoTormo
+ACVL1_ACVR2A	P37023	P27037			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE							LGarciaAlonso
+ACVL1_BMPR2	P37023	Q13873			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE							RVentoTormo
+ACVR_1A2A_receptor	Q04771	P27037			TRUE	FALSE	FALSE		FALSE	TRUE	TGFBeta_receptor_add	FALSE	FALSE			FALSE		Transmembrane_serine_threonine_kinase_activin_type_1_receptor_forming_an_activin_receptor_complex_with_activin_receptor_type_2_(ACVR2A_or_ACVR2B)					RVentoTormo
+ACVR_1A2B_receptor	Q04771	Q13705			TRUE	FALSE	FALSE		FALSE	TRUE	TGFBeta_receptor_add	FALSE	FALSE			FALSE		Transmembrane_serine_threonine_kinase_activin_type_1_receptor_forming_an_activin_receptor_complex_with_activin_receptor_type_2_(ACVR2A_or_ACVR2B)					RVentoTormo
+ACVR_1B2A_receptor	P36896	P27037			TRUE	FALSE	FALSE		FALSE	TRUE	TGFBeta_receptor_add	FALSE	FALSE			FALSE		Transmembrane_serine_threonine_kinase_activin_type_1_receptor_forming_an_activin_receptor_complex_with_activin_receptor_type_2_(ACVR2A_or_ACVR2B)					RVentoTormo
+ACVR_1B2B_receptor	P36896	Q13705			TRUE	FALSE	FALSE		FALSE	TRUE	TGFBeta_receptor_add	FALSE	FALSE			FALSE		Transmembrane_serine_threonine_kinase_activin_type_1_receptor_forming_an_activin_receptor_complex_with_activin_receptor_type_2_(ACVR2A_or_ACVR2B)					RVentoTormo
+ACVR_1C2A_receptor	Q8NER5	P27037			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE							RVentoTormo
+ACVR_1C2B_receptor	Q8NER5	Q13705			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE							RVentoTormo
+ACVR1_BMPR2	Q04771	Q13873			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE							RVentoTormo
+ADA12_complex	O43184	P63244			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Interacts_with_GNB2L1_RACK1;_the_interaction_is_required_for_PKC_dependent_translocation_of_ADAM12_to_the_cell_membrane					RVentoTormo
+ADR_complex	Q96A54	Q86V24			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		May_form_homooligomers_and_heterooligomers_with_ADIPOR2					RVentoTormo
+ADRA1_receptor	P35348	P35368			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Homo_and_heterooligomer_Heterooligomerizes_with_ADRA1B_homooligomers_in_cardiac_myocytes					RVentoTormo
+AldosteroneCorticosterone_byCYP11B2	P19099				FALSE	FALSE	TRUE	CHEBI:27584;CHEBI:16827	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-193965			RHEA:50792	LGarciaAlonso
+aminoacid_transporter	Q9UHI5	P08195			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Localized_to_the_cytoplasm_when_expressed_alone_but_when_coexpressed_with_SLC3A2_4F2hc,_is_localized_to_the_plasma_membrane					RVentoTormo
+AMY1_receptor	P30988	O60894			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE							LGarciaAlonso
+AMY2_receptor	P30988	O60895			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE							LGarciaAlonso
+AMY3_receptor	P30988	O60896			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE							LGarciaAlonso
+Androstenedione_byCYP17A1	P05093				FALSE	FALSE	TRUE	CHEBI:16422	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-193099			RHEA:14753	LGarciaAlonso
+Androsterone_byHSD17B6	O14756				FALSE	FALSE	TRUE	CHEBI:16032	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE		uniprot;PMID:10896656;PMID:11360992					LGarciaAlonso
+AT10A_complex	O60312	Q9NV96			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Exit_from_the_endoplasmic_reticulum_requires_the_presence_of_TMEM30A,_but_not_that_of_TMEM30B					RVentoTormo
+AT11C_complex	Q8NB49	Q9NV96			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Exit_from_the_endoplasmic_reticulum_requires_the_presence_of_TMEM30A,_but_not_that_of_TMEM30B					RVentoTormo
+AT8A1_complex	Q9Y2Q0	Q9NV96			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Exit_from_the_endoplasmic_reticulum_requires_the_presence_of_TMEM30A,_but_not_TMEM30B_					RVentoTormo
+AT8A2_complex	Q9NTI2	Q9NV96			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Interacts_with_TMEM30A_to_form_a_flippase_complex					RVentoTormo
+AT8B1_complex_I	O43520	Q9NV96			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Exit_from_the_endoplasmic_reticulum_requires_the_presence_of_TMEM30A_or_TMEM30B_Localizes_to_apical_membranes_in_epithelial_cells					RVentoTormo
+AT8B1_complex_II	O43520	Q3MIR4			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Exit_from_the_endoplasmic_reticulum_requires_the_presence_of_TMEM30A_or_TMEM30B_Localizes_to_apical_membranes_in_epithelial_cells					RVentoTormo
+AT8B4CC50A_complex	Q8TF62	Q9NV96			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Interacts_with_beta_subunits_TMEM30A_and_TMEM30B					RVentoTormo
+AT8B4CC50B_complex	Q8TF62	Q3MIR4			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Interacts_with_beta_subunits_TMEM30A_and_TMEM30B					RVentoTormo
+ATPase_complex	P98196	Q9NV96			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Exit_from_the_endoplasmic_reticulum_requires_the_presence_of_TMEM30A,_but_not_that_of_TMEM30B					RVentoTormo
+ATPase_complex_II	P98198	Q9NV96			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Exit_from_the_endoplasmic_reticulum_requires_the_presence_of_TMEM30A_or_TMEM30B_Localizes_to_apical_membranes_in_epithelial_cells					RVentoTormo
+ATPase_complex_III	P98198	Q3MIR4			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Exit_from_the_endoplasmic_reticulum_requires_the_presence_of_TMEM30A_or_TMEM30B_Localizes_to_apical_membranes_in_epithelial_cells					RVentoTormo
+atRetinoicAcid_byALDH1A1	P00352				FALSE	FALSE	TRUE	CHEBI:15367	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-5362522			RHEA:42081	LGarciaAlonso
+atRetinoicAcid_byALDH1A2	O94788				FALSE	FALSE	TRUE	CHEBI:15367	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-5362522			RHEA:42081	LGarciaAlonso
+atRetinoicAcid_byALDH1A3	P47895				FALSE	FALSE	TRUE	CHEBI:15367	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-5362522			RHEA:42081	LGarciaAlonso
+BCR_CD45_CD22	P11274	P08575	P20273		TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE							LGarciaAlonso
+BetaKlotho_FGFR4	P22455	Q86Z14			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE							LGarciaAlonso
+BMP9_BMP15	Q9UK05	O95972			FALSE	FALSE	TRUE		TRUE	FALSE		FALSE	FALSE			FALSE							LGarciaAlonso
+BMPR1A_BMPR2	P36894	Q13873			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		On_ligand_binding,_forms_a_receptor_complex_consisting_of_two_type_II_and_two_type_I_transmembrane_serine_threonine_kinases					RVentoTormo
+BMPR1B_BMPR2	O00238	Q13873			TRUE	FALSE	FALSE		FALSE	TRUE	TGFBeta_receptor_add	FALSE	FALSE			FALSE		Serine_threonine_kinase_heterodimer_upon_ligand_binding					RVentoTormo
+BMPR1B_BMPR2_ACVR1B	O00238	Q13873	P36896		TRUE	FALSE	FALSE		FALSE	TRUE	TGFBeta_receptor_add	FALSE	FALSE			FALSE		Serine_threonine_kinase_heterodimer_upon_ligand_binding					LGarciaAlonso
+BMR1A_ACR2A	P36894	P27037			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE							RVentoTormo
+BMR1A_AVR2B	P36894	Q13705			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE							RVentoTormo
+BMR1B_AVR2A	O00238	P27037			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE							RVentoTormo
+BMR1B_AVR2B	O00238	Q13705			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE							RVentoTormo
+Calcitriol_byCYP27B1	O15528				FALSE	FALSE	TRUE	CHEBI:17823	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-209868			RHEA:20574	LGarciaAlonso
+CatSperChannel1b	Q8NEC5	Q9H7T0			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE				R-HSA-2534382			LGarciaAlonso
+CatSperChannel1dg	Q8NEC5	Q86XM0			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE				R-HSA-2534382			LGarciaAlonso
+CatSperChannel2b	Q96P56	Q9H7T0			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE				R-HSA-2534382			LGarciaAlonso
+CatSperChannel2dg	Q96P56	Q86XM0			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE				R-HSA-2534382			LGarciaAlonso
+CatSperChannel3b	Q86XQ3	Q9H7T0			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE				R-HSA-2534382			LGarciaAlonso
+CatSperChannel3dg	Q86XQ3	Q86XM0			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE				R-HSA-2534382			LGarciaAlonso
+CatSperChannel4b	Q7RTX7	Q9H7T0			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE				R-HSA-2534382			LGarciaAlonso
+CatSperChannel4dg	Q7RTX7	Q86XM0			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE				R-HSA-2534382			LGarciaAlonso
+CD180_complex	Q99467	O95711			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE		3b2d	TRUE	CD180;CD180;LY86;LY86	M_shaped_tetramer_of_two_CD180_LY86_heterodimers					RVentoTormo
+CD1A_complex	P61769	P06126			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	TRUE	T_cell	1onq	TRUE	B2M;CD1A	Heterodimer_with_B2M_(beta_2_microglobulin)					RVentoTormo
+CD1B_complex	P61769	P29016			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE		1gzp	TRUE	B2M;CD1B	Heterodimer_with_B2M_(beta_2_microglobulin)_Interacts_with_MHC_II					RVentoTormo
+CD1C_complex	P29017	P61769			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Heterodimer_with_B2M_(beta_2_microglobulin)					RVentoTormo
+CD1D_complex	P61769	P15813			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE		1zt4	TRUE	B2M;CD1D	Heterodimer_with_B2M_(beta_2_microglobulin)_Interacts_with_MHC_II					RVentoTormo
+CD277_complex	O00481	P78410			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	TRUE	Possible_receptor		FALSE		Collaborater_suggestion					RVentoTormo
+CD3_receptor_EG	P07766	P09693			TRUE	FALSE	FALSE		FALSE	TRUE	T_cell_receptor_add	FALSE	FALSE			FALSE		One_part_of_CD3_complex					RVentoTormo
+CD4_receptor	P49685	P01730			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Probable_chemokine_receptor_Alternative_coreceptor_with_CD4_for_HIV_1_infection					RVentoTormo
+CD79_IGHM_receptor	P11912	P40259	P01871		TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Membrane_bound_IgM_molecules_are_non_covalently_associated_with_heterodimer_of_CD79A_and_CD79B					RVentoTormo
+CD79_receptor	P11912	P40259			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Heterodimer_of_alpha_and_beta_chains;_disulfide_linked					RVentoTormo
+CD8_receptor	P01732	P10966			TRUE	FALSE	FALSE		FALSE	TRUE	T_cell_receptor_add	FALSE	FALSE			FALSE		In_general_heterodimer_of_an_a_and_a_beta_chain_linked_bytwo_disulfide_bonds_Can_also_form_homodimers					RVentoTormo
+CD94:NKG2A	Q13241	P26715			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE							RVentoTormo
+CD94:NKG2C	Q13241	P26717			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE							RVentoTormo
+CD94:NKG2E	Q13241	Q07444			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE							RVentoTormo
+Cholesterol_byCEL	P19835				FALSE	FALSE	TRUE	CHEBI:16113	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-192417			RHEA:33875	LGarciaAlonso
+Cholesterol_byDHCR24	Q15392				FALSE	FALSE	TRUE	CHEBI:16113	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-196417			RHEA:36393	LGarciaAlonso
+Cholesterol_byDHCR7	Q9UBM7				FALSE	FALSE	TRUE	CHEBI:16113	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-6807055			RHEA:23986	LGarciaAlonso
+Cholesterol_byLIPA	P38571				FALSE	FALSE	TRUE	CHEBI:16113	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-8865667			RHEA:10100	LGarciaAlonso
+CLM2_receptor	Q496F6	O43914			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Interacts_with_TYROBP					RVentoTormo
+CLM4_receptor	Q6UXZ3	O43914	P30273		TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Cell_surface_localization_requires_the_ITAM_bearing_Fc_receptor_FCER1G_to_overcome_ER_retention					RVentoTormo
+CLM6_complex	Q08708	O43914	P30273		TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE							RVentoTormo
+CNTF_1R	P26992	P42702	P40189		TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL6_family	FALSE	FALSE			FALSE		Heterotrimer_of_the_alpha_subunit,_LIFR_and_IL6ST					RVentoTormo
+CNTF_2R	O75462	P26992	P42702	P40189	TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL6_family	FALSE	FALSE			FALSE		Cytokine_receptor_family;_Interleukin_6_family					RVentoTormo
+CNTN6NCHL1_complex	Q9UQ52	O00533			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		CHL1_associates_with_NB_3_contactin_6_in_cis_and_enhances_cell_surface_expression_of_NB_3					RVentoTormo
+CNTN6PTPRA_complex	Q9UQ52	P18433			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		NB_3_(contactin_6)_also_interacts_with_PTPa_to_regulate_apical_dendrite_orientation_in_the_visual_cortex					RVentoTormo
+contactin_complex_I	Q12860	P78357			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Interacts_with_contactin_in_cis_form_Essential_for_Caspr_sorting_from_the_endoplasmic_reticulum_to_the_plasma_membrane					RVentoTormo
+contactin_complex_II	Q12860	Q92823			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		NRCAM_bind_in_cis_and_in_trans_to_contactin_1					RVentoTormo
+contactin_complex_III	Q12860	P18433			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Contactin_1_associates_with_protein_tyrosine_phosphatase_a_(PTPa)_in_cis					RVentoTormo
+contactin_complex_IV	Q02246	Q9UHC6			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Interacts_with_contactin_in_cis_form					RVentoTormo
+contactin_complex_V	Q02246	P32004			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		L1_binds_to_TAG_1_(contactin_2)_in_cis					RVentoTormo
+Corticosterone_byCYP11B1	P15538				FALSE	FALSE	TRUE	CHEBI:16827	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-194017			RHEA:46104	LGarciaAlonso
+Cortisone_byHSD11B1	P28845				FALSE	FALSE	TRUE	CHEBI:16962	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-194023				LGarciaAlonso
+CUBN_AMN_complex	Q9BXJ7	O60494			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE				R-HSA-264830			LGarciaAlonso
+CY24_complex	P04839	P13498			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Composed_of_a_heavy_chain_(beta)_and_a_light_chain_(a)					RVentoTormo
+DCC_complex	Q8IZJ1	P43146			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Interacts_with_the_cytoplasmic_part_of_DCC					RVentoTormo
+dopamine_2_receptor	P14416	P21917			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Forms_homo_and_heterooligomers_with_DRD4					RVentoTormo
+DSCAM_complex	O60469	P43146			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Interacts_with_DCC;_the_interaction_is_abolished_in_response_to_NTN1_(bysimilarity)					RVentoTormo
+DUOX1_complex	Q9NRD9	Q1HG43			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		May_be_required_for_the_maturation_and_the_transport_from_the_endoplasmic_reticulum_to_the_plasma_membrane_of_functional_DUOX1					RVentoTormo
+Epinephrine_byPNMT	P11086				FALSE	FALSE	TRUE	CHEBI:28918	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-209903				LGarciaAlonso
+ERBB2_ERBB3_complex	P04626	P21860			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Protein_tyrosine_kinase_that_is_part_of_several_cell_surface_receptor_complexes,_but_that_apparently_needs_a_coreceptor_for_ligand_binding					RVentoTormo
+ERBB2_ERBB4_complex	P04626	Q15303			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Protein_tyrosine_kinase_that_is_part_of_several_cell_surface_receptor_complexes,_but_that_apparently_needs_a_coreceptor_for_ligand_binding					RVentoTormo
+ERBB3_ERBB4_complex	P21860	Q15303			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Heterodimer_of_an_alpha_chain_and_a_beta_chain_(beta_2_microglobulin)					RVentoTormo
+Estradiol_byCYP19A1	P11511				FALSE	FALSE	TRUE	CHEBI:16469	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-193143			RHEA:38191	LGarciaAlonso
+Estradiol_byHSD17B1	P14061				FALSE	FALSE	TRUE	CHEBI:16469	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-804969				LGarciaAlonso
+estrogen_receptor	Q99527	P78352			TRUE	FALSE	FALSE		FALSE	TRUE	estrogen_receptor_add	FALSE	FALSE			FALSE		Interacts_(via_C_terminus_tail_motif)_with_DLG4_(via_N_terminus_tandem_pair_of_PDZ_domains);_the_interaction_is_direct_and_induces_the_increase_of_GPER1_protein_levels_residing_at_the_plasma_membrane_surface_in_a_estradiol_independent_manner_(bysimilarity)					RVentoTormo
+Estrone_byHSD17B2	P37059				FALSE	FALSE	TRUE	CHEBI:17263	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-8862137			RHEA:24612;RHEA:24616	LGarciaAlonso
+FAT4_complex	Q96JQ0	Q6V0I7			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Heterophilic_interaction_with_FAT4;_this_interaction_affects_their_respective_protein_levels					RVentoTormo
+FCeR1	P12319	Q01362	P30273		TRUE	FALSE	FALSE		FALSE	TRUE	Fc_receptor_family	FALSE	FALSE			FALSE		Fc_receptor_family;_Tetramer_of_an_a_chain,_a_beta_chain,_and_two_disulfide_linked_gamma_chains					RVentoTormo
+FcRn_complex	P61769	P55899			TRUE	FALSE	FALSE		FALSE	TRUE	Human_IgG_receptor	FALSE	TRUE	transports_immunoglobulin_G_(IgG)_across_epithelia,	1exu	TRUE	B2M;FCGRT	FcRn_complex_consist_of_two_subunits:_p51,_and_p14_which_is_equivalent_to_beta_2_microglobulin_It_forms_an_MHC_class_I_like_heterodimer					RVentoTormo
+FCyR1A	P12314	P30273			TRUE	FALSE	FALSE		FALSE	TRUE	Human_IgG_receptor	FALSE	FALSE			FALSE		Also_called_CD64_Interacts_with_FCERG1;_forms_a_functional_signaling_complex					RVentoTormo
+FCyR3A	P08637	P30273			TRUE	FALSE	FALSE		FALSE	TRUE	Human_IgG_receptor	FALSE	FALSE			FALSE		Exists_as_a_heterooligomeric_receptor_complex_with_Fc_epsilon_receptor_I_gamma_subunit_and___or_the_CD3_zeta_subunit					RVentoTormo
+FCyR3A_II	P08637	P20963			TRUE	FALSE	FALSE		FALSE	TRUE	Human_IgG_receptor	FALSE	FALSE			FALSE		Exists_as_a_heterooligomeric_receptor_complex_with_Fc_epsilon_receptor_I_gamma_subunit_and___or_the_CD3_zeta_subunit					RVentoTormo
+FDZ8_RYK	P34925	Q9H461			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE							LGarciaAlonso
+fibrinogen	P02671	P02679	P02675		FALSE	TRUE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE							RVentoTormo
+FLT1_complex	P17948	P35968			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	TRUE	Migration		FALSE		Can_also_form_a_heterodimer_with_KDR					RVentoTormo
+Follitropin	P01215	P01225			FALSE	FALSE	TRUE		TRUE	FALSE		FALSE	FALSE			FALSE				R-HSA-378947			LGarciaAlonso
+FZD1_LRP5	O75197	Q9UP38			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE							LGarciaAlonso
+FZD1_LRP6	O75581	Q9UP38			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE							LGarciaAlonso
+FZD10_LRP5	O75197	Q9ULW2			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE							LGarciaAlonso
+FZD10_LRP6	O75581	Q9ULW2			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE							LGarciaAlonso
+FZD2_LRP5	O75197	Q14332			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE							LGarciaAlonso
+FZD2_LRP6	O75581	Q14332			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE							LGarciaAlonso
+FZD3_LRP5	O75197	Q9NPG1			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE							LGarciaAlonso
+FZD3_LRP6	O75581	Q9NPG1			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE							LGarciaAlonso
+FZD4_LRP5	O75197	Q9ULV1			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE							LGarciaAlonso
+FZD4_LRP6	O75581	Q9ULV1			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE							LGarciaAlonso
+FZD4TSN12_complex	Q9ULV1	O95859			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Component_of_a_complex,_at_least_composed_of_TSPAN12,_FZD4_and_norrin_(NDP)					RVentoTormo
+FZD5_LRP5	O75197	Q13467			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE							LGarciaAlonso
+FZD5_LRP6	O75581	Q13467			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE							LGarciaAlonso
+FZD6_complex	O60353	Q9ULK5			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Required_for_cell_surface_localization_of_FZD3_and_FZD6_in_the_inner_ear_(bysimilarity)					RVentoTormo
+FZD6_LRP5	O75197	O60353			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE							LGarciaAlonso
+FZD6_LRP6	O75581	O60353			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE							LGarciaAlonso
+FZD7_LRP5	O75197	O75084			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE							LGarciaAlonso
+FZD7_LRP6	O75581	O75084			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE							LGarciaAlonso
+FZD8_LRP5	O75197	Q9H461			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE							LGarciaAlonso
+FZD8_LRP6	O75581	Q9H461			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE							LGarciaAlonso
+FZD9_LRP5	O75197	O00144			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE							LGarciaAlonso
+FZD9_LRP6	O75581	O00144			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE							LGarciaAlonso
+GABBR1_2_complex	Q9UBS5	O75899			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE		4mqe	TRUE	GABBR1;GABBR2	Coexpression_of_GABBR1_and_GABBR2_is_required_for_GABBR1_maturation_and_transport_to_the_plasma_membrane					RVentoTormo
+GALR1	P47211	Q8TDV0			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE							LGarciaAlonso
+GALR2	O43603	Q8TDV0			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE							LGarciaAlonso
+GALR3	O60755	Q8TDV0			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE							LGarciaAlonso
+GammaSecretase_APH1A_PSEN1	Q92542	Q9NZ42	Q96BI3	P49768	TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE				R-HSA-157343	CPX_2176		LGarciaAlonso
+GammaSecretase_APH1A_PSEN2	Q92542	Q9NZ42	Q96BI3	P49810	TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE				R-HSA-157343	CPX_4231		LGarciaAlonso
+GammaSecretase_APH1B_PSEN1	Q92542	Q9NZ42	Q8WW43	P49768	TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE				R-HSA-157343	CPX_4233		LGarciaAlonso
+GammaSecretase_APH1B_PSEN2	Q92542	Q9NZ42	Q8WW43	P49810	TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE				R-HSA-157343	CPX_4232		LGarciaAlonso
+glucagon_receptor	P43220	P48546			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		May_form_homodimers_and_heterodimers_with_GIPR					RVentoTormo
+glutamate_complex	Q14416	P28223			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		mGluR2_and_serotonin_2A_receptor_(5_HT2A)_form_complexes_that_mediate_alterations_in_cellular_response_in_the_brain					RVentoTormo
+glyco_Lutropin	P01215	P01229			FALSE	FALSE	TRUE		TRUE	FALSE		FALSE	FALSE			FALSE				R-HSA-378969			LGarciaAlonso
+Glycoprotein_Ib_complex	P07359	P13224			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Two_GP_Ib_beta_are_disulfide_linked_to_one_GP_Ib_alpha					RVentoTormo
+GMCSFR	P32927	P15509			TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL3_family	FALSE	FALSE		4nkq	binding	CSF2;CSF2RA;CSF2RB	Heterodimer_of_an_a_and_a_beta_subunit					RVentoTormo
+GPER1_receptor	P34998	Q99527			TRUE	FALSE	FALSE		FALSE	TRUE	hormone_receptor	FALSE	FALSE			FALSE		Heterodimer;_heterodimerizes_with_GPER1_(bysimilarity)					RVentoTormo
+GPVI_complex	Q9HCN6	P30273			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Associated_with_Fc_receptor_gamma_chain_The_GPVI_FcRgamma_complex_is_associated_with_the_Src_kinase_family_Fyn_and_Lyn					RVentoTormo
+HHLA2_complex	Q9UM44	Q96BF3			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	TRUE	Ligand		FALSE		Interacts_with_TMIGD2					RVentoTormo
+Histamine_byHDC	P19113				FALSE	FALSE	TRUE	CHEBI:18295	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-977301			RHEA:20841	LGarciaAlonso
+IGF1R_enhancerComGPC3	P08069	P51654			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE							LGarciaAlonso
+IL1_receptor	P14778	Q9NPH3			TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL1_family	FALSE	FALSE		4dep	binding	IL1B;IL1R1;IL1RAP	After_binding_to_interleukin_1_associates_with_the_corecptor_IL1RAP_to_form_the_high_affinity_interleukin_1_receptor_complex					RVentoTormo
+IL1_receptor_inhibitor	P27930	Q9NPH3			TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL1_family	FALSE	FALSE		3o4o	binding	IL1B;IL1R2;IL1RAP	After_binding_to_interleukin_1_associates_with_the_corecptor_IL1RAP_to_form_the_high_affinity_interleukin_1_receptor_antagonist_complex					RVentoTormo
+IL10_receptor	Q13651	Q08334			TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL10_family	FALSE	FALSE			FALSE		Heterodimer_of_an_alpha_and_a_beta_subunit					RVentoTormo
+IL11_receptor	Q14626	P40189			TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL6_family	FALSE	FALSE			FALSE		On_ligand_binding,_forms_a_multimer_complex_with_IL6ST_gp130					RVentoTormo
+IL12	P29459	P29460			FALSE	FALSE	TRUE	Cytokine_receptor_IL6_family,_IL12_subfamily	TRUE	FALSE		FALSE	FALSE		1f45	TRUE	IL12A;IL12B						RVentoTormo
+IL12_receptor	P42701	Q99665			TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL6_family,_IL12_subfamily	FALSE	FALSE			FALSE		Associated_with_IL12RB2_it_forms_a_functional,_high_affinity_receptor_for_IL12					RVentoTormo
+IL13_receptor	P78552	P24394			TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL2_family,_IL4_subfamily	FALSE	FALSE		3bpo	binding	IL13;IL13RA1;IL4R	Together_with_IL4RA_can_form_a_functional_receptor_for_IL13					RVentoTormo
+IL15_receptor	Q13261	P14784			TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL2_family	FALSE	FALSE		4gs7	TRUE	IL15;IL15RA;IL2RB;IL2RG	The_interleukin_15_receptor_IL15R_is_a_heterotrimer_of_IL15RA,_IL2RB_and_IL2RG					RVentoTormo
+IL17_AF	Q16552	Q96PD4			FALSE	FALSE	TRUE	Cytokine	TRUE	FALSE		FALSE	FALSE			FALSE							RVentoTormo
+IL17_receptor_AB	Q96F46	Q9NRM6			TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL17_family	FALSE	FALSE			FALSE							RVentoTormo
+IL17_receptor_AC	Q96F46	Q8NAC3			TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL17_family	FALSE	FALSE			FALSE		NA;_the_heterodimer_binds_IL17AF					RVentoTormo
+IL17_receptor_AE	Q96F46	Q8NFR9			TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL17_family	FALSE	FALSE			FALSE		Forms_heterodimers_with_IL17RE;_the_heterodimer_binds_IL17C					RVentoTormo
+IL18_receptor	Q14116	Q13478	O95256		TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL1_family	FALSE	FALSE		3wo4	TRUE	IL18;IL18R1;IL18RAP	Cytokine_receptor_family;_Interleukin_18_family					RVentoTormo
+IL2_receptor_HA	P01589	P14784	P31785		TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL2_family	FALSE	FALSE		2b5i	binding	IL2;IL2RA;IL2RB;IL2RG	A_high_affinity_dimer,_an_intermediate_affinity_monomer_(beta_subunit)_The_high_and_intermediate_affinity_forms_also_associate_with_a_gamma_subunit					RVentoTormo
+IL2_receptor_I	P14784	P31785			TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL2_family	FALSE	FALSE		3qaz	binding							RVentoTormo
+IL20_receptor_Type_I	Q9UHF4	Q6UXL0			TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL10_family,_IL20_subfamily	FALSE	FALSE			FALSE		The_IL20RA_IL10RB_dimer_is_a_receptor_for_IL26					RVentoTormo
+IL20_receptor_Type_II	Q8N6P7	Q6UXL0			TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL10_family,_IL20_subfamily	FALSE	FALSE			FALSE		Component_of_IL22_receptor_formed_byIL22RA1_and_IL10RB					RVentoTormo
+IL21_receptor	Q9HBE5	P31785			TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL2_family	FALSE	FALSE			FALSE		Heterodimer_with_the_common_gamma_subunit					RVentoTormo
+IL22_receptor	Q8N6P7	Q08334			TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL10_family,_IL20_subfamily	FALSE	FALSE		3dgc	binding	IL22;IL22RA1	Component_of_IL22_receptor_formed_byIL22RA1_and_IL10RB					RVentoTormo
+IL23	P29460	Q9NPF7			FALSE	FALSE	TRUE	Cytokine_receptor_IL6_family,_IL12_subfamily	TRUE	FALSE		FALSE	FALSE		3d87	TRUE	IL12B;IL12B;IL23A;IL23A						RVentoTormo
+IL23_receptor	P42701	Q5VWK5			TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL6_family,_IL12_subfamily	FALSE	FALSE			FALSE		Associates_also_with_IL23R_to_form_the_interleukin_23_receptor_which_functions_in_IL23_signal_transduction					RVentoTormo
+IL26_receptor	Q9UHF4	Q08334			TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL10_family,_IL20_subfamily	FALSE	FALSE			FALSE							RVentoTormo
+IL27	Q14213	Q8NEV9			FALSE	FALSE	TRUE	Cytokine_receptor_IL6_family	TRUE	FALSE		FALSE	FALSE			FALSE							RVentoTormo
+IL27_receptor	Q6UWB1	P40189			TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL6_family	FALSE	FALSE			FALSE		Requires_IL6ST_gp130_to_mediate_signal_transduction_in_response_to_IL27					RVentoTormo
+IL28_receptor	Q8IU57	Q08334			TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_family	FALSE	FALSE		5t5w	binding	IFNL3;IFNLR1;IL10RB	IFNLR1_IL10RB_dimer_is_a_receptor					RVentoTormo
+IL3_receptor	P32927	P26951			TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL3_family	FALSE	FALSE			FALSE		Heterodimer_of_an_a_and_a_beta_subunit					RVentoTormo
+IL31_receptor	Q8NI17	Q99650			TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL6_family	FALSE	FALSE			FALSE		Associates_with_OSMR_to_form_the_interleukin_31_receptor					RVentoTormo
+IL33_receptor	Q01638	Q9NPH3			TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL1_family	FALSE	FALSE			FALSE							RVentoTormo
+IL35	Q14213	P29459			FALSE	FALSE	TRUE	Cytokine_receptor	TRUE	FALSE		FALSE	FALSE			FALSE							RVentoTormo
+IL35_receptor	P40189	Q99665			TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL1_family	FALSE	FALSE			FALSE							RVentoTormo
+IL36_receptor	Q9HB29	Q9NPH3			TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL1_family	FALSE	FALSE			FALSE		After_binding_to_interleukin_36_associates_with_the_coreceptor_IL1RAP_to_form_the_interleukin_36_receptor_complex					RVentoTormo
+IL37_receptor	Q13478	Q6IA17			TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL1_family	FALSE	FALSE			FALSE		See_paper_Nold_Petry_et_al,_2015_Also_called_IL37					RVentoTormo
+IL4_receptor	P31785	P24394			TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL2_family,_IL4_subfamily	FALSE	FALSE		3qb7	TRUE	IL2RG;IL4R	The_functional_IL4_receptor_is_formed_byinitial_binding_of_IL4_to_IL4R_Subsequent_recruitment_to_the_complex_of_the_common_gamma_chain,_in_immune_cells					RVentoTormo
+IL5_receptor	P32927	Q01344			TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL3_family	FALSE	FALSE			FALSE		Heterodimer_of_an_alpha_and_a_beta_subunit					RVentoTormo
+IL6_receptor	P08887	P40189			TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL6_family	FALSE	FALSE		1p9m	binding	IL6;IL6;IL6R;IL6R;IL6ST;IL6ST	Signal_activation_necessitate_an_association_with_IL6ST					RVentoTormo
+IL7_receptor	P16871	P31785			TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL2_family,_IL7_subfamily	FALSE	FALSE			FALSE		The_IL7_receptor_is_a_heterodimer_of_IL7R_and_IL2RG					RVentoTormo
+IL9_receptor	Q01113	P31785			TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL2_family	FALSE	FALSE			FALSE		Cytokine_receptor_family;_Interleukin_9_family					RVentoTormo
+Insulin_receptor	P05019	P08069	P06213		TRUE	FALSE	FALSE		FALSE	TRUE	Hormone	FALSE	FALSE		4xss	TRUE	IGF1;IGF1R;INSR	_Forms_a_hybrid_receptor_with_IGF1R,_the_hybrid_is_a_tetramer_consisting_of_1_a_chain_and_1_beta_chain_of_INSR_and_1_a_chain_and_1_beta_chain_of_IGF1R					RVentoTormo
+integrin_a10b1_complex	P05556	O75578			TRUE	FALSE	FALSE		FALSE	FALSE		TRUE	FALSE			FALSE		Well_known_integrin_combination					RVentoTormo
+integrin_a11b1_complex	P05556	Q9UKX5			TRUE	FALSE	FALSE		FALSE	FALSE		TRUE	FALSE			FALSE		Well_known_integrin_combination					RVentoTormo
+integrin_a1b1_complex	P05556	P56199			TRUE	FALSE	FALSE		FALSE	FALSE		TRUE	FALSE			FALSE		Well_known_integrin_combination					RVentoTormo
+integrin_a2b1_complex	P05556	P17301			TRUE	FALSE	FALSE		FALSE	FALSE		TRUE	FALSE			FALSE		Well_known_integrin_combination					RVentoTormo
+integrin_a2Bb3_complex	P08514	P05106			TRUE	FALSE	FALSE		FALSE	FALSE		TRUE	FALSE		1kup	TRUE	ITGA2B;ITGB3	Well_known_integrin_combination					RVentoTormo
+integrin_a3b1_complex	P05556	P26006			TRUE	FALSE	FALSE		FALSE	FALSE		TRUE	FALSE			FALSE		Well_known_integrin_combination					RVentoTormo
+integrin_a4b1_complex	P05556	P13612			TRUE	FALSE	FALSE		FALSE	FALSE		TRUE	FALSE			FALSE		Well_known_integrin_combination					RVentoTormo
+integrin_a4b7_complex	P26010	P13612			TRUE	FALSE	FALSE		FALSE	FALSE		TRUE	FALSE			FALSE		Well_known_integrin_combination					RVentoTormo
+integrin_a5b1_complex	P05556	P08648			TRUE	FALSE	FALSE		FALSE	FALSE		TRUE	FALSE			FALSE		Well_known_integrin_combination					RVentoTormo
+integrin_a6b1_complex	P05556	P23229			TRUE	FALSE	FALSE		FALSE	FALSE		TRUE	FALSE			FALSE		Well_known_integrin_combination					RVentoTormo
+integrin_a6b4_complex	P16144	P23229			TRUE	FALSE	FALSE		FALSE	FALSE		TRUE	FALSE			FALSE		Well_known_integrin_combination					RVentoTormo
+integrin_a7b1_complex	P05556	Q13683			TRUE	FALSE	FALSE		FALSE	FALSE		TRUE	FALSE			FALSE		Well_known_integrin_combination					RVentoTormo
+integrin_a8b1_complex	P05556	P53708			TRUE	FALSE	FALSE		FALSE	FALSE		TRUE	FALSE			FALSE		Well_known_integrin_combination					RVentoTormo
+integrin_a9b1_complex	P05556	Q13797			TRUE	FALSE	FALSE		FALSE	FALSE		TRUE	FALSE			FALSE		Well_known_integrin_combination					RVentoTormo
+integrin_aDb2_complex	P05107	Q13349			TRUE	FALSE	FALSE		FALSE	FALSE		TRUE	FALSE			FALSE		Well_known_integrin_combination					RVentoTormo
+integrin_aEb7_complex	P26010	P38570			TRUE	FALSE	FALSE		FALSE	FALSE		TRUE	FALSE			FALSE		Well_known_integrin_combination					RVentoTormo
+integrin_aLb2_complex	P05107	P20701			TRUE	FALSE	FALSE		FALSE	FALSE		TRUE	FALSE			FALSE		Well_known_integrin_combination					RVentoTormo
+integrin_aMb2_complex	P05107	P11215			TRUE	FALSE	FALSE		FALSE	FALSE		TRUE	FALSE			FALSE		Well_known_integrin_combination					RVentoTormo
+integrin_aVb1_complex	P05556	P06756			TRUE	FALSE	FALSE		FALSE	FALSE		TRUE	FALSE			FALSE		Well_known_integrin_combination					RVentoTormo
+integrin_aVb3_complex	P06756	P05106			TRUE	FALSE	FALSE		FALSE	FALSE		TRUE	FALSE		1jv2	TRUE	ITGAV;ITGB3	Well_known_integrin_combination					RVentoTormo
+integrin_aVb5_complex	P18084	P06756			TRUE	FALSE	FALSE		FALSE	FALSE		TRUE	FALSE			FALSE		Well_known_integrin_combination					RVentoTormo
+integrin_aVb6_complex	P06756	P18564			TRUE	FALSE	FALSE		FALSE	FALSE		TRUE	FALSE		4um8	TRUE	ITGAV;ITGB6	Well_known_integrin_combination					RVentoTormo
+integrin_aVb8_complex	P26012	P06756			TRUE	FALSE	FALSE		FALSE	FALSE		TRUE	FALSE			FALSE		Well_known_integrin_combination					RVentoTormo
+integrin_aXb2_complex	P20702	P05107			TRUE	FALSE	FALSE		FALSE	FALSE		TRUE	FALSE		3k6s	TRUE	ITGAX;ITGB2	Well_known_integrin_combination					RVentoTormo
+KCND2CSEN_complex	Q9NZV8	Q9Y2W7			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Involved_in_KCND2_and_KCND3_trafficking_to_the_cell_surface					RVentoTormo
+KCND2KCIP1_complex	Q9NZV8	Q9NZI2			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Interaction_with_KCNIP1,_KCNIP2,_KCNIP3_or_KCNIP4_promotes_expression_at_the_cell_membrane					RVentoTormo
+KCND2KCIP2_complex	Q9NZV8	Q9NS61			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Increases_the_presence_of_KCND2_at_the_cell_surface					RVentoTormo
+KCND2KCIP4_complex	Q9NZV8	Q6PIL6			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Modulates_KCND2_channel_density					RVentoTormo
+KCND3CSEN_complex	Q9UK17	Q9Y2W7			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Involved_in_KCND2_and_KCND3_trafficking_to_the_cell_surface					RVentoTormo
+KCNE3KCNB1_complex	Q9Y6H6	Q14721			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Colocalizes_with_KCNB1_at_high_density_somatodendritic_clusters_on_the_surface_of_hippocampal_neurons					RVentoTormo
+KCNG1KCNB1_complex	Q9UIX4	Q14721			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Colocalizes_with_KCNB1_at_the_plasma_membrane					RVentoTormo
+KCNG2KCNB1_complex	Q9UJ96	Q14721			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Heterodimer_with_KCNB1_Does_not_form_homomultimers					RVentoTormo
+KCNG3_complex	Q8TAE7	Q14721			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Has_to_be_associated_with_KCNB1_or_possibly_another_partner_to_get_inserted_in_the_plasma_membrane					RVentoTormo
+KCNG4_complex	Q8TDN1	Q14721			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Has_to_be_associated_with_KCNB1_or_possibly_another_partner_to_get_inserted_in_the_plasma_membrane					RVentoTormo
+KCNS1KCNB1_complex	Q96KK3	Q14721			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		May_not_reach_the_plasma_membrane_but_remain_in_an_intracellular_compartment_in_the_absence_of_KCNB1_or_KCNB2					RVentoTormo
+KCNS1KCNB2_complex	Q96KK3	Q92953			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		May_not_reach_the_plasma_membrane_but_remain_in_an_intracellular_compartment_in_the_absence_of_KCNB1_or_KCNB2					RVentoTormo
+KCNS2KCNB1_complex	Q9ULS6	Q14721			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Heterotetramer_with_KCNB1_and_KCNB2					RVentoTormo
+KCNS2KCNB2_complex	Q9ULS6	Q92953			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Heterotetramer_with_KCNB1_and_KCNB2					RVentoTormo
+KCNS3_complex	Q9BQ31	Q14721			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		May_not_reach_the_plasma_membrane_but_remain_in_an_intracellular_compartment_in_the_absence_of_KCNB1					RVentoTormo
+KCNV1KCNB2_complex	Q6PIU1	Q92953			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Has_to_be_associated_with_another_potassium_channel_subunit_to_get_inserted_in_the_plasma_membrane_Remains_intracellular_in_the_absence_of_KCNB2					RVentoTormo
+KCNV2_complex	Q8TDN2	Q14721			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Has_to_be_associated_with_KCNB1_or_possibly_another_partner_to_get_inserted_in_the_plasma_membrane_Remains_intracellular_in_the_absence_of_KCNB1					RVentoTormo
+KIRS2	P43631	O43914			TRUE	FALSE	FALSE		FALSE	TRUE	KIR_add	FALSE	FALSE			FALSE							RVentoTormo
+KIRS4	P43632	O43914			TRUE	FALSE	FALSE		FALSE	TRUE	KIR_add	FALSE	FALSE			FALSE							RVentoTormo
+Klotho_FGFR1	P11362	Q9UEF7			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE							LGarciaAlonso
+Kremen1_LRP6	Q96MU8	O75581			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE							LGarciaAlonso
+Kremen2_LRP6	Q8NCW0	O75581			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE							LGarciaAlonso
+LAT1_transporter	Q01650	P08195			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Located_to_the_plasma_membrane_bySLC3A2_4F2hc					RVentoTormo
+Ldopa_byTYR	P14679				FALSE	FALSE	TRUE	CHEBI:15765	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE						RHEA:34287	LGarciaAlonso
+leucine_rich_complex	Q6PJG9	Q96NI6			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	TRUE	Others		FALSE		Can_form_heteromeric_complexes_with_LRFN1,_LRFN2,_LRFN3_and_LRFN5					RVentoTormo
+LeukotrieneB4_byLTA4H	P09960				FALSE	FALSE	TRUE	CHEBI:15647	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-266072			RHEA:22325	LGarciaAlonso
+LeukotrieneC4_byLTC4S	P20292	P09917	Q16873		FALSE	FALSE	TRUE	CHEBI:16978	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-266050			RHEA:17619	LGarciaAlonso
+LeukotrieneD4_byGGT1	P19440	P36269			FALSE	FALSE	TRUE	CHEBI:28666	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-266046			RHEA:31564	LGarciaAlonso
+LeukotrieneE4_byDPEP1	P16444				FALSE	FALSE	TRUE	CHEBI:15650	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-266012			RHEA:48617	LGarciaAlonso
+LeukotrieneE4_byDPEP2	Q9H4A9				FALSE	FALSE	TRUE	CHEBI:15650	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-266012			RHEA:48617	LGarciaAlonso
+LeukotrieneE4_byDPEP3	Q9H4B8				FALSE	FALSE	TRUE	CHEBI:15650	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-266012			RHEA:48617	LGarciaAlonso
+LIFR	P42702	P40189			TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL6_family	FALSE	FALSE			FALSE		Heterodimer_composed_of_LIFR_and_IL6ST					RVentoTormo
+LipoxinA4_byALOX12	P18054				FALSE	FALSE	TRUE	CHEBI:6498	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-2161775			RHEA:48584	LGarciaAlonso
+LipoxinA4_byALOX5	P09917	P20292	Q16873		FALSE	FALSE	TRUE	CHEBI:6498	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-2161917				LGarciaAlonso
+LRC52_complex	Q8N7C0	A8MYU2			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Expression_at_the_cell_surface_may_require_the_presence_of_KCNU1					RVentoTormo
+LRFN2LRFN3_complex	Q9ULH4	Q9BTN0			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Forms_heteromeric_complexes_with_LRFN1,_LRFN3,_LRFN4_and_LRFN5					RVentoTormo
+LRFN2LRFN4_complex	Q9ULH4	Q6PJG9			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Forms_heteromeric_complexes_with_LRFN1,_LRFN3,_LRFN4_and_LRFN5					RVentoTormo
+LRFN2LRFN5_complex	Q9ULH4	Q96NI6			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Forms_heteromeric_complexes_with_LRFN1,_LRFN3,_LRFN4_and_LRFN5					RVentoTormo
+LRFN3LRFN4_complex	Q9BTN0	Q6PJG9			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Can_form_heteromeric_complexes_with_LRFN1,_LRFN2,_LRFN4_and_LRFN5					RVentoTormo
+LRFN3LRFN5_complex	Q9BTN0	Q96NI6			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Can_form_heteromeric_complexes_with_LRFN1,_LRFN2,_LRFN4_and_LRFN5					RVentoTormo
+LRP4_MUSK_complex	O15146	O75096			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE		3ml4	partial	DOK7;DOK7;MUSK;MUSK	MUSK_Interacts_with_LRP4;_the_heterodimer_forms_an_AGRIN_receptor_complex_that_binds_AGRIN_resulting_in_activation_of_MUSK					RVentoTormo
+Lthyroxine_byTPO	P07202				FALSE	FALSE	TRUE	CHEBI:18332	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-209840				LGarciaAlonso
+Melatonin_byASMT	P46597				FALSE	FALSE	TRUE	CHEBI:16796	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-209821			RHEA:15573	LGarciaAlonso
+MIS_receptor_1	Q16671	P36894			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE							RVentoTormo
+MIS_receptor_2	Q16671	O00238			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE							RVentoTormo
+MIS_receptor_3	Q16671	Q04771			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE							RVentoTormo
+MR1_complex	P61769	P61769	Q95460		TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE		4gup	TRUE	B2M;MR1	Heterodimerizes_with_B2M,_this_interaction_is_required_for_surface_expression					RVentoTormo
+NCR1_receptor	O76036	P20963	P30273		TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	TRUE	NK_receptor_recognition		FALSE		Interacts_with_CD247_and_FCER1G					RVentoTormo
+NCR2_receptor	O95944	O43914			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	TRUE	NK_receptor_recognition		FALSE		Interacts_with_TYROBP_DAP12					RVentoTormo
+NCR3_receptor	O14931	P20963			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	TRUE	NK_receptor_recognition		FALSE		Interacts_with_CD3Z					RVentoTormo
+NKG2D_II_receptor	P26718	Q9UBK5			TRUE	FALSE	FALSE		FALSE	TRUE	hematopoyetic_receptor	FALSE	FALSE			FALSE		Heterohexamer_composed_of_two_subunits_of_KLRK1_and_four_subunits_of_HCST_DAP10					RVentoTormo
+NODAL_receptor_IbIIa_CFC1	P36896	P27037	P0CG37		TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE				R-HSA-1181125			LGarciaAlonso
+NODAL_receptor_IbIIa_TDGF1	P36896	P27037	P13385		TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE				R-HSA-1181125			LGarciaAlonso
+NODAL_receptor_IbIIb_CFC1	P36896	Q13705	P0CG37		TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE							LGarciaAlonso
+NODAL_receptor_IbIIb_TDGF1	P36896	Q13705	P13385		TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE							RVentoTormo
+NODAL_receptor_IcIIb_CFC1	Q8NER5	Q13705	P0CG37		TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE				R-HSA-1181125			LGarciaAlonso
+NODAL_receptor_IcIIb_TDGF1	Q8NER5	Q13705	P13385		TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE				R-HSA-1181125			LGarciaAlonso
+Noradrenaline_byDBH	P09172				FALSE	FALSE	TRUE	CHEBI:18357	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-209891				LGarciaAlonso
+opioid_receptor_A	P35372	P08913			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Forms_homooligomers_and_heterooligomers_with_other_GPCRs,_such_as_ADRA2A_(probably_in_dimeric_forms)					RVentoTormo
+opioid_receptor_C	P35372	P21554			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Forms_homooligomers_and_heterooligomers_with_other_GPCRs,_such_as_CNR1_(probably_in_dimeric_forms)					RVentoTormo
+opioid_receptor_CCR5	P35372	P51681			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Forms_homooligomers_and_heterooligomers_with_other_GPCRs,_such_as_CCR5_(probably_in_dimeric_forms)					RVentoTormo
+opioid_receptor_D_1	P35372	P41143	Q96DX8		TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Interacts_with_RTP4;_the_interaction_promotes_cell_surface_localization_of_the_OPRD1_OPRM1_heterodimer_(bysimilarity)					RVentoTormo
+opioid_receptor_GMP6A	P35372	P51674			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Interacts_with_OPRM1					RVentoTormo
+opioid_receptor_K_1	P35372	P41145			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Forms_homooligomers_and_heterooligomers_with_other_GPCRs,_such_as_OPRK1_(probably_in_dimeric_forms)					RVentoTormo
+opioid_receptor_L_1	P35372	P41146			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Forms_homooligomers_and_heterooligomers_with_other_GPCRs,_such_as_OPRL1_(probably_in_dimeric_forms)					RVentoTormo
+opioid_receptor_N	P35372	Q9Y5X5			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Forms_homooligomers_and_heterooligomers_with_other_GPCRs,_such_as_NPFFR2_(probably_in_dimeric_forms)					RVentoTormo
+opioid_receptor_S	P35372	P30874			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Forms_homooligomers_and_heterooligomers_with_other_GPCRs,_such_as_SSTR2_(probably_in_dimeric_forms)					RVentoTormo
+OSMR	Q99650	P40189			TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL6_family	FALSE	FALSE			FALSE		Heterodimer_composed_of_OSMR_and_IL6ST_(type_II_OSM_receptor)					RVentoTormo
+P2X7_receptor_Pannexin1_complex	Q96RD7	Q99572			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		PMID:_18596211					RVentoTormo
+PCDH15_complex	Q96QU1	Q8TAF8			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Efficient_localization_to_the_plasma_membrane_requires_the_presence_of_LHFPL5					RVentoTormo
+PDGFR_complex	P16234	P09619			TRUE	FALSE	FALSE		FALSE	TRUE	growth_factor_receptor	FALSE	FALSE			FALSE		heterodimers_formed_byPDGFA_and_PDGFB					RVentoTormo
+PK1L1PK2L1_complex	Q8TDX9	Q9P0L9			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Forms_a_heterodimer_with_PKD2L1_in_primary_cilia_and_forms_a_calcium_permeant_ciliary_channel					RVentoTormo
+PK1L1PKD2_complex	Q8TDX9	Q13563			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		forms_a_complex_with_PKD2_in_cilia_to_facilitate_flow_detection_in_left_right_patterning					RVentoTormo
+pL1:Ezrin	P15311	P32004			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE				R-HSA-374575			LGarciaAlonso
+PlexinA1_complex1	Q9UIW2	P35968			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		PMID:_22325954					RVentoTormo
+PlexinA1_complex2	Q9UIW2	Q9NZC2	O43914		TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		PMID:_22325954					RVentoTormo
+PlexinA1_complex3	O14786	Q9UIW2			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		PMID:_22325954					RVentoTormo
+PlexinA2_complex1	O14786	O75051			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		PMID:_22325954					RVentoTormo
+PlexinA3_complex1	O14786	P51805			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		PMID:_22325954					RVentoTormo
+PlexinA4_complex1	O14786	Q9HCM2			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		PMID:_22325954					RVentoTormo
+PODXL_complex	O00592	O14745			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	TRUE	Migration		FALSE		Interacts_(via_the_PDZ_1_domain)_with_PODXL_(via_the_C_terminal_PDZ_binding_motif_DTHL);_the_interaction_take_place_early_in_the_secretory_pathway_and_is_necessary_for_its_apical_membrane_sorting_(bysimilarity)					RVentoTormo
+Polycistin_complex_I	P98161	Q13563			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		PKD1_localization_to_the_plasma_and_ciliary_membranes_requires_PKD2					RVentoTormo
+Polycistin_complex_II	Q9P0L9	P98161			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Interaction_with_PKD1_or_PKD1L3_is_required_for_localization_to_the_cell_membrane					RVentoTormo
+Polycistin_complex_III	Q9P0L9	Q7Z443			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Interaction_with_PKD1_or_PKD1L3_is_required_for_localization_to_the_cell_membrane					RVentoTormo
+potasium_complex	O00180	O95069			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		The_heterodimer_with_KCNK2_is_detected_at_the_astrocyte_cell_membrane					RVentoTormo
+potasium_transporter_complex	P54707	Q9NV96			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Exit_from_the_endoplasmic_reticulum_requires_the_presence_of_TMEM30A,_but_not_that_of_TMEM30B					RVentoTormo
+potassium_complex	P16389	P22459			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Coexpression_with_KCNA4_or_with_beta_subunits_promotes_expression_at_the_cell_membrane					RVentoTormo
+Pregnenolone_byCYP11A1	P05108	Q6P4F2	P10109	P22570	FALSE	FALSE	TRUE	CHEBI:16581	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-193101			RHEA:35739	LGarciaAlonso
+Progesterone_byHSD3B1	P14060				FALSE	FALSE	TRUE	CHEBI:17026;CHEBI:16422;CHEBI:17252	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-193052			RHEA:43928	LGarciaAlonso
+Prostacyclin_byPTGIS	Q16647				FALSE	FALSE	TRUE	CHEBI:15552	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-76496				LGarciaAlonso
+ProstaglandinD2_byAKR1C3	P42330				FALSE	FALSE	TRUE	CHEBI:57406	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE						RHEA:10140	LGarciaAlonso
+ProstaglandinE2_byPTGES	O14684				FALSE	FALSE	TRUE	CHEBI:15551	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-2161660			RHEA:12894	LGarciaAlonso
+ProstaglandinE2_byPTGES2	Q9H7Z7				FALSE	FALSE	TRUE	CHEBI:15551	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-265295			RHEA:12894	LGarciaAlonso
+ProstaglandinE2_byPTGES3	Q15185				FALSE	FALSE	TRUE	CHEBI:15551	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-265295			RHEA:12894	LGarciaAlonso
+ProstaglandinF2a_byAKR1B1	P15121				FALSE	FALSE	TRUE	CHEBI:15553	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-2161549			RHEA:45314	LGarciaAlonso
+ProstaglandinF2a_byCBR1	P16152				FALSE	FALSE	TRUE	CHEBI:15553	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-2161651			RHEA:24510	LGarciaAlonso
+ProstaglandinF2a_byPRXL2B	Q8TBF2				FALSE	FALSE	TRUE	CHEBI:15553	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-2161612			RHEA:28214	LGarciaAlonso
+ProstaglandinH2_byPTGS1	P23219				FALSE	FALSE	TRUE	CHEBI:57405	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE						RHEA:23729	LGarciaAlonso
+ProstaglandinH2_byPTGS2	P35354				FALSE	FALSE	TRUE	CHEBI:57405	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE						RHEA:23729	LGarciaAlonso
+PTCH_BOC_transmembrane_receptor 	Q13635	Q9BWV1			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE				R-HSA-5632584			LGarciaAlonso
+PTCH_CDON_transmembrane_receptor 	Q13635	Q4KMG0			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE			R-HSA-5632652				LGarciaAlonso
+PTCH_GAS1_transmembrane_receptor 	Q13635	P54826			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE			R-HSA-5632649				LGarciaAlonso
+PTCH2_BOC_transmembrane_receptor 	Q9Y6C5	Q9BWV1			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		PMID:25448692					LGarciaAlonso
+PTCH2_CDON_transmembrane_receptor 	Q9Y6C5	Q4KMG0			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		PMID:25448692					LGarciaAlonso
+PTCH2_GAS1_transmembrane_receptor 	Q9Y6C5	P54826			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		PMID:25448692					LGarciaAlonso
+RAMP1_complex	Q16602	O60894			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE		3n7p	TRUE	CALCRL;RAMP1	Heterodimer_of_CALCRL_and_RAMP3_(bysimilarity)_Heterodimer_of_CALCRL_and_RAMP1_or_CALCRL_and_RAMP2					RVentoTormo
+RAMP2_complex	Q16602	O60895			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE		3aqf	TRUE	CALCRL;RAMP2	Heterodimer_of_CALCRL_and_RAMP3_(bysimilarity)_Heterodimer_of_CALCRL_and_RAMP1_or_CALCRL_and_RAMP2					RVentoTormo
+RAMP3_complex	O60896	Q16602	Q99527		TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Transports_the_calcitonin_gene_related_peptide_type_1_receptor_(CALCRL)_and_GPER1_to_the_plasma_membrane					RVentoTormo
+RAMP3_complex_2	Q16602	O60896			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Heterodimer_of_CALCRL_and_RAMP3_(bysimilarity)_Heterodimer_of_CALCRL_and_RAMP1_or_CALCRL_and_RAMP2					RVentoTormo
+RAreceptor_RXRA_fake	P19793				TRUE	FALSE	FALSE	FALSE	FALSE	TRUE	nuclear_receptor;needs transporter	FALSE	TRUE			FALSE				R-HSA-5334826			LGarciaAlonso
+RAreceptor_RXRA	P19793	P29373			TRUE	FALSE	FALSE	FALSE	FALSE	TRUE	nuclear_receptor;needs transporter	FALSE	TRUE			FALSE				R-HSA-5334826			LGarciaAlonso
+RAreceptor_RXRB	P28702	P29373			TRUE	FALSE	FALSE	FALSE	FALSE	TRUE	nuclear_receptor;needs transporter	FALSE	TRUE			FALSE				R-HSA-5334826			LGarciaAlonso
+RAreceptor_RXRG	P48443	P29373			TRUE	FALSE	FALSE	FALSE	FALSE	TRUE	nuclear_receptor;needs transporter	FALSE	TRUE			FALSE				R-HSA-5334826			LGarciaAlonso
+RAreceptor_RARA	P10276	P29373			TRUE	FALSE	FALSE	FALSE	FALSE	TRUE	nuclear_receptor;needs transporter	FALSE	TRUE			FALSE				R-HSA-5334826			LGarciaAlonso
+RAreceptor_RARB	P10826	P29373			TRUE	FALSE	FALSE	FALSE	FALSE	TRUE	nuclear_receptor;needs transporter	FALSE	TRUE			FALSE				R-HSA-5334826			LGarciaAlonso
+RAreceptor_RARG	P13631	P29373			TRUE	FALSE	FALSE	FALSE	FALSE	TRUE	nuclear_receptor;needs transporter	FALSE	TRUE			FALSE				R-HSA-5334826			LGarciaAlonso
+RAreceptor_RARA_RXRA	P10276	P19793	P29373		TRUE	FALSE	FALSE	FALSE	FALSE	TRUE	nuclear_receptor;needs transporter	FALSE	TRUE			FALSE				R-HSA-5334826			LGarciaAlonso
+RAreceptor_RARB_RXRB	P10826	P28702	P29373		TRUE	FALSE	FALSE	FALSE	FALSE	TRUE	nuclear_receptor;needs transporter	FALSE	TRUE			FALSE				R-HSA-5334826			LGarciaAlonso
+RAreceptor_RARG:RXRG	P13631	P48443	P29373		TRUE	FALSE	FALSE	FALSE	FALSE	TRUE	nuclear_receptor;needs transporter	FALSE	TRUE			FALSE				R-HSA-5334826			LGarciaAlonso
+RET_receptor_1	P07949	P56159			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE							RVentoTormo
+RET_receptor_2	P07949	O00451			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE							RVentoTormo
+RET_receptor_3	P07949	O60609			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE							RVentoTormo
+RET_receptor_4	P07949	Q9GZZ7			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE							RVentoTormo
+ROR2_VANGL2	Q01974	Q9ULK5			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE							LGarciaAlonso
+S12A9S12A9_complexes	Q9BXP2	Q13621			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Interacts_with_SLC12A1					RVentoTormo
+SCN_complex	P51172	P51168	P51170		TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Heterotrimer_containing_a_delta_SCNN1D,_a_beta_SCNN1B_and_a_gamma_SCNN1G_subunit					RVentoTormo
+SerotoninDopamin_byDDC	P20711				FALSE	FALSE	TRUE	CHEBI:28790	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-209859			RHEA:18534	LGarciaAlonso
+serotonin_rceptor_2	P08908	Q99527			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Heterodimer;_heterodimerizes_with_GPER1					RVentoTormo
+serotonin_receptor_1	A5X5Y0	P46098			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Forms_a_pentaheteromeric_complex_with_HTR3A					RVentoTormo
+serotonine_receptor1	P28222	P28221			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Homodimer_Heterodimer_with_HTR1D					RVentoTormo
+serotonine_receptor2	P28335	O75970			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		The_encoded_protein_is_known_to_interact_with_the_HTR2C_receptor_and_may_cause_it_to_clump_at_the_cell_surface					RVentoTormo
+SIRB1_complex	O00241	O43914			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Homodimer;_disulfide_linked_Interacts_with_TYROBP_This_interaction_results_in_the_recruitment_of_SYK					RVentoTormo
+SLC16A1_complex	P35613	P53985			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Interacts_with_BSG;_this_is_required_for_expression_at_the_cell_membrane					RVentoTormo
+SLC16A3_complex	P35613	O15427			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	TRUE			FALSE		Plays_an_important_role_in_targeting_the_monocarboxylate_transporters_SLC16A1,_SLC16A3_and_SLC16A8_to_the_plasma_membrane					RVentoTormo
+SLC16A8_complex	P35613	O95907			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	TRUE			FALSE		Plays_an_important_role_in_targeting_the_monocarboxylate_transporters_SLC16A1,_SLC16A3_and_SLC16A8_to_the_plasma_membrane					RVentoTormo
+Sodium_channel_complex	P37088	P51168	P51170		TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Heterotrimer_containing_an_alpha_SCNN1A,_a_beta_SCNN1B_and_a_gamma_SCNN1G_subunit					RVentoTormo
+sodium_channel_complex	Q9Y5Y9	P60903			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		It_can_be_translocated_to_the_extracellular_membrane_through_association_with_S100A10					RVentoTormo
+somatostatin_receptor	P30874	P32745			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Homodimer_and_heterodimer_with_SSTR3_and_SSTR5					RVentoTormo
+somatostatin_receptor_II	P30874	P35346			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Homodimer_and_heterodimer_with_SSTR3_and_SSTR5					RVentoTormo
+SSR_complex	P43307	P43308	P51571	Q9UNL2	TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Heterotetramer_of_TRAP_a,_TRAP_beta,_TRAP_delta_and_TRAP_gamma_Interacts_with_palmitoylated_calnexin_(CALX)					RVentoTormo
+Testosterone_byAKR1D1	P51857				FALSE	FALSE	TRUE	CHEBI:17347	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE						RHEA:14983	LGarciaAlonso
+Testosterone_byHSD17B12	Q53GQ0				FALSE	FALSE	TRUE	RAreceptor_RARG_RXRG	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-193064			RHEA:14983	LGarciaAlonso
+Testosterone_byHSD17B3	P37058				FALSE	FALSE	TRUE	CHEBI:17347	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-193064			RHEA:14983	LGarciaAlonso
+tetraspanin_complex	Q9Y653	P60033	P21926	P29992	TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Part_of_a_GPCR_tetraspanin_complex_at_least_consisting_of_GPR56,_CD81,_eventually_CD9,_and_GNA11_in_which_CD81_is_enhancing_the_association_of_GPR56_with_GNA11					RVentoTormo
+TGFbeta_receptor1	P36897	P37173			TRUE	FALSE	FALSE		FALSE	TRUE	TGFBeta_receptor_add	FALSE	FALSE			FALSE		Heterohexamer;_TGFB1,_TGFB2_and_TGFB3_homodimeric_ligands_assemble_a_functional_receptor_composed_of_two_TGFBR1_and_TGFBR2_heterodimers_to_form_a_ligand_receptor_heterohexamer					RVentoTormo
+TGFbeta_receptor2	P37173	Q04771			TRUE	FALSE	FALSE		FALSE	TRUE	TGFBeta_receptor_add	FALSE	FALSE			FALSE							RVentoTormo
+TGFR_AVR2A	P36897	P27037			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE							RVentoTormo
+TGFR_AVR2B	P36897	Q13705			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE							RVentoTormo
+TGFR_BMPR2	P36897	Q13873			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE							RVentoTormo
+ThromboxaneA2_byTBXAS1	P24557				FALSE	FALSE	TRUE	CHEBI:15627	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE			R-HSA-76500			RHEA:17138	LGarciaAlonso
+Thyrostimulin	Q86YW7	Q96T91			FALSE	FALSE	TRUE		TRUE	FALSE		FALSE	FALSE			FALSE				R-HSA-8942418			LGarciaAlonso
+Thyrotropin	P01215	P01222			FALSE	FALSE	TRUE		TRUE	FALSE		FALSE	FALSE			FALSE				R-HSA-8942418			LGarciaAlonso
+TIE1TEK_receptor	P35590	Q02763			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Heterodimer_with_TEK_TIE2					RVentoTormo
+TREM1_receptor	Q9NP99	O43914			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Interacts_with_TYROBP_DAP12					RVentoTormo
+TREM2_receptor	Q9NZC2	O43914			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Interacts_with_TYROBP_DAP12					RVentoTormo
+Triiodothyronine_byDIO3	P55073	P01266			FALSE	FALSE	TRUE	CHEBI:18258	TRUE	FALSE		FALSE	TRUE	biosynthesis_enzyme		FALSE							LGarciaAlonso
+TSLPR	P16871	Q9HC73			TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_IL2_family,_IL7_subfamily	FALSE	FALSE		5j11	binding	CRLF2;IL7R;TSLP	The_TSLP_receptor_is_a_heterodimer_of_CRLF2_and_IL7R					RVentoTormo
+Type_I_IFNR	P17181	P48551			TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_family	FALSE	FALSE		3se3	binding	IFNA2;IFNAR1;IFNAR2	Heterodimer_with_IFNAR2					RVentoTormo
+Type_II_IFNR	P15260	P38484			TRUE	FALSE	FALSE		FALSE	TRUE	Cytokine_receptor_family	FALSE	FALSE		1fg9	binding	IFNG;IFNG;IFNGR1;IFNGR1;IFNGR1	Associates_with_IFNGR2_to_form_a_receptor_for_the_cytokine_interferon_gamma_(IFNG)					RVentoTormo
+Type_III_IFNR	Q08334	Q8IU57			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE							RVentoTormo
+TYROBP_complex	A8K4G0	O43914	Q9UBK5		TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Interacts_with_TYROBP,_which_enhances_cell_surface_expression_and_activation_properties					RVentoTormo
+TYRP_complex	P17643	P40126			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Tyrosinase,_TYRP1_and_DCT_TYRP2_may_form_a_multienzyme_complex					RVentoTormo
+UNC5A_receptor	Q6ZN44	P43146			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Interacts_with_the_cytoplasmic_part_of_DCC					RVentoTormo
+UNC5C_complex	O95185	P43146			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Interacts_with_the_cytoplasmic_part_of_DCC					RVentoTormo
+UNC5D_receptor	Q6UXZ4	P43146			TRUE	FALSE	FALSE		FALSE	TRUE		FALSE	FALSE			FALSE		Interacts_with_the_cytoplasmic_part_of_DCC					RVentoTormo
+UPK3A_complex	O75631	O75841			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Heterodimer_formation_with_UPK1B_is_a_prerequisite_to_exit_out_of_the_endoplasmic_reticulum_(ER)					RVentoTormo
+UPK3B_complex	Q9BT76	O75841			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Heterodimer_formation_with_UPK1B_is_a_prerequisite_to_exit_out_of_the_endoplasmic_reticulum_(ER)					RVentoTormo
+VANG_complex	Q8TAA9	Q9ULK5			TRUE	FALSE	FALSE		FALSE	FALSE		FALSE	FALSE			FALSE		Heterodimer_with_VANGL2					RVentoTormo
