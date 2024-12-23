@@ -82,6 +82,12 @@ parser.add_argument('-w', '--weights', type=str, nargs='+', help='Boolean value 
 # labels
 parser.add_argument('-l', '--labels', type=str, nargs='+', help='Name of the column in the metadata of the anndata specified in --from that contains the labels we wish to transfer to the anndata in --to.', required=True)
 
+# dataframe of converted genes from mouse (if present) 
+parser.add_argument('-cg', '--converted-genes', type=str, nargs='+', help='Path to dataframe containing gene ids converted from mouse to human (if present). This can be the output of the script CrossSpecies_Biomart.R.', default=argparse.SUPPRESS)
+
+# is mouse (if present)
+parser.add_argument('-im', '--is-mouse', type=str, nargs='+', help='Path to mouse dataset for which we need to convert gene IDs to human', default=argparse.SUPPRESS)
+
 args = parser.parse_args()
 
 
@@ -119,6 +125,50 @@ else:
     print('Datasets have not been reset to raw counts as the user has not specified the need for it.')
 
 
+###########################################################
+# Load converted genes from mouse to human (if necessary) #
+###########################################################
+
+def convert_ids(adata, df_genes):
+    var_names = adata.var_names.to_list()
+    df_genes = df_genes[df_genes['external_gene_name'].isin(var_names)]
+    df_genes = df_genes.set_index('external_gene_name')
+    gene_mapping = df_genes['hsapiens_homolog_associated_gene_name'].to_dict() # mouse gene name to human gene name
+    tokeep = df_genes.index.to_list()
+    adata = adata[:, tokeep]
+    adata.var['human_ids'] = adata.var_names.map(gene_mapping)
+    adata.var_names = adata.var['human_ids']
+    return adata
+
+
+print('''
+if not args.converted_genes is None: 
+    print('''
+    ######################################
+    # Mapping mouse genes to human genes #
+    ######################################
+    ''') 
+    df_genes = pandas.read_csv(args.converted_genes[0])
+    df_genes = df_genes.dropna()
+    df_genes = df_genes.drop_duplicates(['hsapiens_homolog_associated_gene_name'])
+    df_genes = df_genes.drop_duplicates(['external_gene_name'])
+
+    if not args.is_mouse is None: 
+        if args.adata_from[0] == args.is_mouse[0]:
+            print('\nThe mouse dataset is the one you wish to transfer labels FROM\n')
+            adata_from = convert_ids(adata_from, df_genes)
+        elif args.adata_to[0] == args.is_mouse[0]:
+            print('\nThe mouse dataset is the one you wish to transfer labels TO\n')
+            adata_to = convert_ids(adata_to, df_genes)
+        else: 
+            print('The mouse dataset does not coincide with either the dataset you wish to transfer labels FROM nor TO')
+    else: 
+        print('Please provide a path to the mouse dataset')
+else: 
+    print('No mouse dataset, no gene conversion needed') 
+''')
+
+
 ##############
 # Downsample #
 ##############
@@ -131,7 +181,7 @@ def downsample(adata, labels):
     clusters = pandas.Series(myvalues, index = myindex)
     
     # Find clusters with > n cells (n is user-defined and specified by the argument --downsample)
-    n = eu(args.downsample)
+    n = args.downsample
     cl2downsample = clusters.index[ clusters.values > n ]
 
     # save all barcode ids from small clusters
@@ -154,7 +204,7 @@ def downsample(adata, labels):
     return adata
 
 if args.downsample > 0:
-    adata_from = downsample(adata_from, args.downsample)
+    adata_from = downsample(adata_from, args.labels[0])
     print("Dataset has been downsampled")
 else: 
     print('Dataset has not been downsampled as the user has not specified the need for it.')
@@ -456,4 +506,5 @@ print('''
 ###########################
 ''')
 
-adata_to.obs[to_save].to_csv(args.outdir[0] + 'transferred_labels.csv')
+adata_to.obs[to_save].to_csv(args.outdir[0] + 'transferred_labels_FT.csv')
+
